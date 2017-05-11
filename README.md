@@ -1,5 +1,5 @@
 # mars
-##Mars rover code
+## Mars rover code
 
 Uses an Analogzero HAT to measure the battery voltage and shutdown if it gets too low (<10v).
 
